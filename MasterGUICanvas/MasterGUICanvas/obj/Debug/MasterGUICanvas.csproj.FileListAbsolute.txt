@@ -1,0 +1,26 @@
+c:\users\nikola\documents\visual studio 2015\Projects\Canvas\MasterGUICanvas\MasterGUICanvas\bin\Debug\MasterGUICanvas.exe.config
+c:\users\nikola\documents\visual studio 2015\Projects\Canvas\MasterGUICanvas\MasterGUICanvas\obj\Debug\MasterGUICanvas.csprojResolveAssemblyReference.cache
+c:\users\nikola\documents\visual studio 2015\Projects\Canvas\MasterGUICanvas\MasterGUICanvas\obj\Debug\App.g.cs
+c:\users\nikola\documents\visual studio 2015\Projects\Canvas\MasterGUICanvas\MasterGUICanvas\obj\Debug\MasterGUICanvas_MarkupCompile.cache
+c:\users\nikola\documents\visual studio 2015\Projects\Canvas\MasterGUICanvas\MasterGUICanvas\obj\Debug\MainWindow.baml
+c:\users\nikola\documents\visual studio 2015\Projects\Canvas\MasterGUICanvas\MasterGUICanvas\obj\Debug\MainWindow.g.cs
+c:\users\nikola\documents\visual studio 2015\Projects\Canvas\MasterGUICanvas\MasterGUICanvas\obj\Debug\MasterGUICanvas.g.resources
+c:\users\nikola\documents\visual studio 2015\Projects\Canvas\MasterGUICanvas\MasterGUICanvas\obj\Debug\MasterGUICanvas.Properties.Resources.resources
+c:\users\nikola\documents\visual studio 2015\Projects\Canvas\MasterGUICanvas\MasterGUICanvas\obj\Debug\MasterGUICanvas.csproj.GenerateResource.Cache
+c:\users\nikola\documents\visual studio 2015\Projects\Canvas\MasterGUICanvas\MasterGUICanvas\bin\Debug\MasterGUICanvas.exe
+c:\users\nikola\documents\visual studio 2015\Projects\Canvas\MasterGUICanvas\MasterGUICanvas\bin\Debug\MasterGUICanvas.pdb
+c:\users\nikola\documents\visual studio 2015\Projects\Canvas\MasterGUICanvas\MasterGUICanvas\obj\Debug\MasterGUICanvas.exe
+c:\users\nikola\documents\visual studio 2015\Projects\Canvas\MasterGUICanvas\MasterGUICanvas\obj\Debug\MasterGUICanvas.pdb
+G:\Master\MasterGUICanvas\MasterGUICanvas\bin\Debug\MasterGUICanvas.exe.config
+G:\Master\MasterGUICanvas\MasterGUICanvas\obj\Debug\MasterGUICanvas.exe
+G:\Master\MasterGUICanvas\MasterGUICanvas\obj\Debug\MasterGUICanvas.pdb
+G:\Master\MasterGUICanvas\MasterGUICanvas\bin\Debug\MasterGUICanvas.exe
+G:\Master\MasterGUICanvas\MasterGUICanvas\bin\Debug\MasterGUICanvas.pdb
+G:\Master\MasterGUICanvas\MasterGUICanvas\obj\Debug\MainWindow.baml
+G:\Master\MasterGUICanvas\MasterGUICanvas\obj\Debug\MainWindow.g.cs
+G:\Master\MasterGUICanvas\MasterGUICanvas\obj\Debug\App.g.cs
+G:\Master\MasterGUICanvas\MasterGUICanvas\obj\Debug\MasterGUICanvas_MarkupCompile.cache
+G:\Master\MasterGUICanvas\MasterGUICanvas\obj\Debug\MasterGUICanvas.g.resources
+G:\Master\MasterGUICanvas\MasterGUICanvas\obj\Debug\MasterGUICanvas.Properties.Resources.resources
+G:\Master\MasterGUICanvas\MasterGUICanvas\obj\Debug\MasterGUICanvas.csproj.GenerateResource.Cache
+G:\Master\MasterGUICanvas\MasterGUICanvas\obj\Debug\MasterGUICanvas.csprojResolveAssemblyReference.cache
