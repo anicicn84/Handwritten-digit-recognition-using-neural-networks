@@ -4,8 +4,8 @@
 
 using Eigen::MatrixXd; //a matrix of arbitrary size
 
-std::string trainingExamplesPath = "C:\\Users\\Nikola\\Documents\\MasterWork2016QT\\train-images.idx3-ubyte";
-std::string trainingLabelsPath = "C:\\Users\\Nikola\\Documents\\MasterWork2016QT\\train-labels.idx1-ubyte";
+std::string trainingExamplesPath = "C:\\Users\\Nikola\\Documents\\MasterWork\\train-images.idx3-ubyte";
+std::string trainingLabelsPath = "C:\\Users\\Nikola\\Documents\\MasterWork\\train-labels.idx1-ubyte";
 
 #include <iostream>
 #include <fstream>
@@ -88,11 +88,11 @@ std::vector<std::uint8_t> read_image(std::istream& str, int width, int height)
 //read an image 28x28 pixels to Eigen vector, there's alternate solution above to MatrixXd
 Eigen::VectorXd read_image_to_vector(std::istream& str, int width, int height)
 {
-	Eigen::VectorXd pixels;
+	Eigen::VectorXd pixels(width*height);
 
 	for (int i = 0; i < width*height; ++i) {
 		auto pixel = read_int_t<std::uint8_t>(str);
-		pixels << pixel;
+		pixels(i) = pixel;
 	}
 	return pixels;
 }

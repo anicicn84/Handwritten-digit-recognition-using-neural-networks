@@ -24,3 +24,6 @@ G:\Master\MasterGUICanvas\MasterGUICanvas\obj\Debug\MasterGUICanvas.g.resources
 G:\Master\MasterGUICanvas\MasterGUICanvas\obj\Debug\MasterGUICanvas.Properties.Resources.resources
 G:\Master\MasterGUICanvas\MasterGUICanvas\obj\Debug\MasterGUICanvas.csproj.GenerateResource.Cache
 G:\Master\MasterGUICanvas\MasterGUICanvas\obj\Debug\MasterGUICanvas.csprojResolveAssemblyReference.cache
+C:\Users\Nikola\Documents\MasterWork\MasterGUICanvas\MasterGUICanvas\bin\Debug\MasterGUICanvas.exe.config
+C:\Users\Nikola\Documents\MasterWork\MasterGUICanvas\MasterGUICanvas\obj\Debug\MasterGUICanvas.exe
+C:\Users\Nikola\Documents\MasterWork\MasterGUICanvas\MasterGUICanvas\obj\Debug\MasterGUICanvas.pdb
